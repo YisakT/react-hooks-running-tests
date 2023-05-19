@@ -1,7 +1,9 @@
 import React from "react";
 
 function Article() {
-  return <Article>please pass this test</Article>
+  return <p>please pass this test
+
+  </p>
 }
 
 export default Article;
